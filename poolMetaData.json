@@ -1,6 +1,6 @@
 {
 "name": "Stellar Stake Pool",
-"description": "Stellar Stake Pool",
+"description": "Cloud based reliable stake pool",
 "ticker": "STLR",
 "homepage": "https://stellarstakepool.com",
 "extended": "https://raw.githubusercontent.com/mariposa-sp/staking-pool/main/poolMetaDataExtended.json"
